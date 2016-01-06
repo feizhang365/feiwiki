@@ -1,4 +1,4 @@
-### linux进程
+# linux进程
 ps -ef |grep  程序名
 
 netstat -nltp |grep 端口号或服务名
@@ -17,7 +17,7 @@ nohup aria2c --enable-rpc=true --rpc-listen-all=true &
 
 
 
-### Centos7开启端口
+# Centos7开启端口
 开启端口
  
 firewall-cmd --zone=public --add-port=80/tcp --permanent
