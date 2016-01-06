@@ -1,23 +1,23 @@
-###linux上进程
+### linux上进程
 ps -ef |grep  程序名
 
 netstat -nltp |grep 端口号或服务名
 
-######1.杀死进程
+###### 1.杀死进程
 killall name
 
 kill pid
-######2.让linux程序在后台运行
+###### 2.让linux程序在后台运行
 
 nohup command {option} &
 
-**Demo：**
+** Demo：**
 
 nohup aria2c --enable-rpc=true --rpc-listen-all=true &
 
 
 
-###Centos7开启端口
+### Centos7开启端口
 开启端口
  
 firewall-cmd --zone=public --add-port=80/tcp --permanent
