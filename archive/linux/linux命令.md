@@ -1,4 +1,4 @@
-### linux上进程
+### linux进程
 ps -ef |grep  程序名
 
 netstat -nltp |grep 端口号或服务名
