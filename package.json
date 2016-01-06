@@ -6,9 +6,16 @@
     "name": "feizhang"
   },
   "devDependencies": {
-    "mdjs": "*"
+    "mdjs": "0.x.x"
   },
-
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/feizhang365/feiwiki.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feizhang365/issues"
+  },
   "homepage": "http://www.iqipic.com/",
   "mdjs": {
     "name": "feiwiki",
