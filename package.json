@@ -1,0 +1,26 @@
+{
+  "name": "feiwiki",
+  "version": "1.0.0",
+  "description": "feiwiki",
+  "author": {
+    "name": "feizhang"
+  },
+  "devDependencies": {
+    "mdjs": "*"
+  },
+
+  "homepage": "http://www.iqipic.com/",
+  "mdjs": {
+    "name": "feiwiki",
+    "port": 8091,
+    "dir_alias": {
+      "archive": "技术存档"
+    },
+    "static_prefix": "mdjs_static",
+    "ignore_dir": [
+      ".git",
+      ".cache",
+      "node_modules"
+    ]
+  }
+}
