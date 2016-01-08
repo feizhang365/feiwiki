@@ -2,6 +2,8 @@
 
 张飞的[Markdown](http://baike.baidu.com/link?url=c_sKelKchrRuMuZ7fDjDetmXhkYw_CGecVclgsa9OO_OOusA9CVpcmY1NDKeyl06YGdlQhV-s7hnfkR8O4UEmK) wiki,用于记录、收集、沉淀一些东西
 
+gitHub地址:https://github.com/feizhang365/feiwiki
+
 
 ## 联系方式 
 
