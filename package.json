@@ -21,7 +21,8 @@
     "name": "feiwiki",
     "port": 8091,
     "dir_alias": {
-      "archive": "技术存档"
+      "archive": "技术笔记",
+      "techres": "技术资源"
     },
     "static_prefix": "mdjs_static",
     "ignore_dir": [
