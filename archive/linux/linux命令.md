@@ -1,13 +1,15 @@
-# linux进程
+# linux命令
+
+#### * 查看进程
 ps -ef |grep  程序名
 
 netstat -nltp |grep 端口号或服务名
 
-###### 1.杀死进程
+####  * 杀死进程
 killall name
 
 kill pid
-###### 2.让linux程序在后台运行
+#### * 让linux程序在后台运行
 
 nohup command {option} &
 
@@ -15,6 +17,10 @@ nohup command {option} &
 
 nohup aria2c --enable-rpc=true --rpc-listen-all=true &
 
+
+#### * python开启一个简单的服务器
+
+python -m SimpleHTTPServer 8000
 
 
 # Centos7开启端口
