@@ -1,5 +1,13 @@
 # MySQL 命令
 
+#### * 查看用户表
+  
+select User,Host from mysql.user;
+
+#### * 查看用户权限
+
+SHOW GRANTS FOR 'root'@'localhost'; 
+
 #### * 创建新用户授权
 
 CREATE USER 'user'@'%' IDENTIFIED BY 'pass';
