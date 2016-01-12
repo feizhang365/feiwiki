@@ -13,5 +13,5 @@
 ### Redis 资源
 
 [redis](http://redis.io/)
-[redis CN](http://www.redis.cn/)
+[redis 中文](http://www.redis.cn/)
 
