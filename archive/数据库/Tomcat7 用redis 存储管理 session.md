@@ -1,4 +1,4 @@
-#Tomcat7 用redis 存储管理 session
+# Tomcat7 用redis 存储管理 session
 
 ### 1.拷贝以下jar到tomcat7下的lib目录中
 
@@ -23,7 +23,7 @@
    `
          
 
-### 资源
+##### 参考资源
 
 [tomcat-redis-session-manager](https://github.com/jcoleman/tomcat-redis-session-manager)
 
