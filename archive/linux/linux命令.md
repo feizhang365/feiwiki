@@ -23,6 +23,15 @@ nohup aria2c --enable-rpc=true --rpc-listen-all=true &
 python -m SimpleHTTPServer 8000
 
 
+#### * 不同电脑之间文件拷贝
+
+- Copy something from this machine to some other machine:
+
+scp /path/to/local/file username@hostname:/path/to/remote/file
+
+- Copy something from another machine to this machine:
+
+scp username@hostname:/path/to/remote/file /path/to/local/file
 # Centos7开启端口
 开启端口
  

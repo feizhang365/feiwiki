@@ -11,3 +11,9 @@
 [廖雪峰Python教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 
 [GitHub Most Stars](https://github.com/search?l=Python&o=desc&q=python&ref=searchresults&s=stars&type=Repositories&utf8=%E2%9C%93)
+
+
+
+###### 有用的命令：
+
+pip install Scrapy --upgrade -i http://mirrors.aliyun.com/pypi/simple --trusted-host mirrors.aliyun.com
